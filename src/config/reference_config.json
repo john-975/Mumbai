@@ -1,0 +1,30 @@
+{
+    "drone_model": "Pluto 1.2",
+    "config_version": 1,
+    "verification_status": "unconfirmed",
+    "motor_positions": [
+        "front_left",
+        "front_right",
+        "rear_left",
+        "rear_right"
+    ],
+    "reference": {
+        "front_left": {
+            "propeller_type": null,
+            "orientation": null
+        },
+        "front_right": {
+            "propeller_type": null,
+            "orientation": null
+        },
+        "rear_left": {
+            "propeller_type": null,
+            "orientation": null
+        },
+        "rear_right": {
+            "propeller_type": null,
+            "orientation": null
+        }
+    },
+    "notes": "Populate the reference values only after verifying the official Pluto 1.2 configuration."
+}

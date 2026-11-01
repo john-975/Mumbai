@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-11-01T08:07:28.108425+00:00",
+  "raw_dir": "dataset/raw",
+  "output_dir": "dataset/processed",
+  "manifest_dir": "dataset/manifests",
+  "config": {
+    "max_side": 1600,
+    "jpeg_quality": 95,
+    "seed": 42,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1,
+    "test_ratio": 0.1
+  },
+  "source_count": 81,
+  "included_count": 81,
+  "rejected_count": 0,
+  "processing_status_counts": {
+    "included": 81
+  },
+  "quality_status_counts": {
+    "review": 62,
+    "ready": 19
+  },
+  "annotation_status_counts": {
+    "missing": 81
+  },
+  "split_counts": {
+    "test": 11,
+    "train": 62,
+    "val": 8
+  },
+  "rejection_reasons": {}
+}
